@@ -1,0 +1,10 @@
+{
+    "PORT": 3000,
+    "REDIS_URL": "",
+    "DB_FROM": "",
+    "DB_TO": "",
+    "API_KEY": "",
+    "DATABASE_NAME": "",
+    "SENTRY_DSN": ""
+}
+

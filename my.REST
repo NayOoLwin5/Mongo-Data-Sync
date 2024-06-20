@@ -1,0 +1,8 @@
+###
+POST https://social-api.ayainnovation.com/oapi/transferToWallet/recent/list
+Content-Type: application/json
+x-api-key: 378dhs63-hfiu-1597-38dh-dhwudh72jv0
+
+{
+    "customerId" : "627215d76a15e74c27896f49"
+}
