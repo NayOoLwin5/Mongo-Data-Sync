@@ -1,4 +1,4 @@
-# MongoDatabaseSync
+# Overview
 
 This project primarily focuses on mongo data sync from one database to another seamlessly wriiten in javascript. 
 **Note**: Not yet suitable for any other relational or non retaional database. 
